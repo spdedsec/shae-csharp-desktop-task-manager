@@ -1,0 +1,6 @@
+bin/
+obj/
+*.user
+*.zip
+.DS_Store
+.env
